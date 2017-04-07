@@ -23,7 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
     vendor/samsung/scx30g-common/proprietary/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/samsung/scx30g-common/proprietary/lib/libatchannel.so:system/lib/libatchannel.so \
-    vendor/samsung/scx30g-common/proprietary/lib/libatparser.so:system/lib/lib/libatparser.so \
+    vendor/samsung/scx30g-common/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/scx30g-common/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
     vendor/samsung/scx30g-common/proprietary/bin/macloader:system/bin/macloader \
     vendor/samsung/scx30g-common/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
