@@ -19,9 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/bin/gps.cer:system/bin/gps.cer \
     vendor/samsung/scx30g-common/proprietary/lib/libsprd_agps_agent.so:system/lib/libsprd_agps_agent.so \
     vendor/samsung/scx30g-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
-    vendor/samsung/scx30g-common/proprietary/lib/libboost.so:system/lib/libboost.so \
     vendor/samsung/scx30g-common/proprietary/lib/libfactoryutil.so:system/lib/libfactoryutil.so \
-    vendor/samsung/scx30g-common/proprietary/lib/egl/libGLES_mali.so:system/lib/egl/libGLES_mali.so \
     vendor/samsung/scx30g-common/proprietary/lib/libatchannel.so:system/lib/libatchannel.so \
     vendor/samsung/scx30g-common/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/scx30g-common/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
@@ -49,4 +47,3 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/lib/libomx_vpxdec_hw_sprd.so:system/lib/libomx_vpxdec_hw_sprd.so \
     vendor/samsung/scx30g-common/proprietary/lib/libomx_m4vh263dec_hw_sprd.so:system/lib/libomx_m4vh263dec_hw_sprd.so \
     vendor/samsung/scx30g-common/proprietary/lib/libomx_m4vh263enc_hw_sprd.so:system/lib/libomx_m4vh263enc_hw_sprd.so \
-    vendor/samsung/scx30g-common/proprietary/lib/hw/gralloc.sc8830.so:system/lib/hw/gralloc.sc8830.so
