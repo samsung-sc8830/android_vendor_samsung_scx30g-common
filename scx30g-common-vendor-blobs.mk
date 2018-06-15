@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/lib/libatparser.so:system/lib/libatparser.so \
     vendor/samsung/scx30g-common/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
     vendor/samsung/scx30g-common/proprietary/bin/macloader:system/bin/macloader \
-    vendor/samsung/scx30g-common/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/scx30g-common/proprietary/bin/modemd:system/bin/modemd \
     vendor/samsung/scx30g-common/proprietary/bin/nvitemd:system/bin/nvitemd \
     vendor/samsung/scx30g-common/proprietary/bin/phoneserver:system/bin/phoneserver \
@@ -34,8 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/bin/ext_data.sh:system/bin/ext_data.sh \
     vendor/samsung/scx30g-common/proprietary/bin/ext_kill.sh:system/bin/ext_kill.sh \
     vendor/samsung/scx30g-common/proprietary/bin/ext_symlink.sh:system/bin/ext_symlink.sh \
-    vendor/samsung/scx30g-common/proprietary/lib/libril.so:system/lib/libril.so \
-    vendor/samsung/scx30g-common/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/scx30g-common/proprietary/lib/libreference-ril_sp.so:system/lib/libreference-ril_sp.so \
     vendor/samsung/scx30g-common/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/scx30g-common/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
