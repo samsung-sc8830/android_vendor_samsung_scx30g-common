@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/bin/ext_kill.sh:system/vendor/bin/ext_kill.sh \
     vendor/samsung/scx30g-common/proprietary/bin/ext_symlink.sh:system/vendor/bin/ext_symlink.sh \
     vendor/samsung/scx30g-common/proprietary/lib/libreference-ril_sp.so:system/vendor/lib/libreference-ril_sp.so \
-    vendor/samsung/scx30g-common/proprietary/lib/libsecril-client.so:system/vendor/lib/libsecril-client.so \
     vendor/samsung/scx30g-common/proprietary/lib/libsecnativefeature.so:system/vendor/lib/libsecnativefeature.so \
     vendor/samsung/scx30g-common/proprietary/lib/libomission_avoidance.so:system/vendor/lib/libomission_avoidance.so \
     vendor/samsung/scx30g-common/proprietary/lib/libomx_aacdec_sprd.so:system/vendor/lib/libomx_aacdec_sprd.so \
