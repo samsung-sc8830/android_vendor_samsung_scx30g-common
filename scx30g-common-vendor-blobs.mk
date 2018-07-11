@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/lib/libatparser.so:system/vendor/lib/libatparser.so \
     vendor/samsung/scx30g-common/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
     vendor/samsung/scx30g-common/proprietary/bin/macloader:system/vendor/bin/macloader \
-    vendor/samsung/scx30g-common/proprietary/bin/modemd:system/vendor/bin/modemd \
     vendor/samsung/scx30g-common/proprietary/bin/nvitemd:system/vendor/bin/nvitemd \
     vendor/samsung/scx30g-common/proprietary/bin/phoneserver:system/vendor/bin/phoneserver \
     vendor/samsung/scx30g-common/proprietary/bin/refnotify:system/vendor/bin/refnotify \
