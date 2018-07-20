@@ -20,7 +20,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/scx30g-common/proprietary/lib/libsprd_agps_agent.so:system/vendor/lib/libsprd_agps_agent.so \
     vendor/samsung/scx30g-common/proprietary/lib/hw/gps.default.so:system/vendor/lib/hw/gps.default.so \
     vendor/samsung/scx30g-common/proprietary/lib/libfactoryutil.so:system/vendor/lib/libfactoryutil.so \
-    vendor/samsung/scx30g-common/proprietary/lib/libatchannel.so:system/vendor/lib/libatchannel.so \
     vendor/samsung/scx30g-common/proprietary/lib/libatparser.so:system/vendor/lib/libatparser.so \
     vendor/samsung/scx30g-common/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
     vendor/samsung/scx30g-common/proprietary/bin/macloader:system/vendor/bin/macloader \
